@@ -149,7 +149,7 @@ src/cpu/modrm.cpp           x86 mod/reg/rm effective address handling and lookup
 
 src/cpu/mmx.cpp             Minimalist MMX register handling and effective address lookup
 
-src/cpu/lazyflags.cpp       Lazy CPU flag evalulation. CPU flags are evaluated only if needed.
+src/cpu/lazyflags.cpp       Lazy CPU flag evaluation. CPU flags are evaluated only if needed.
 
 src/cpu/flags.cpp           CPU flag evaluation code.
 
